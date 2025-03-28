@@ -5,7 +5,7 @@ This project is a **full-stack React application** designed to report and track 
 ## Features
 - User-friendly interface for data entry and visualization  
 - Interactive dashboard with Secure authentication and user roles
-- 
+  
 ## Getting Started
 
 ### Prerequisites
